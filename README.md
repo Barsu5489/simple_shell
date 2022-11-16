@@ -1,6 +1,6 @@
 - Simple Shell C Group project Syscall
 
-Project to be done in teams of 2 people (your team: Dennis Maritim, Eric Munyi)
+Project to be done in teams of 2 people (your team: Abraham Maiko, Emmanuel Barsulai)
 
 Background Context Write a simple UNIX command interpreter.
 
